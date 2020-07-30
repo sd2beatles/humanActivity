@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/53164959/88954047-c0eeda00-d2d4-11ea-9514-f4352d265a7c.png)
+
+
 # 1. Introduction
 humanActivity
 
@@ -28,9 +31,11 @@ Programming : Python(Version 3.7.0) and Jupyter Notebook
 
 Note that all the peformanace measures are based on F-1 scores. 
 
-Support Vector Machines: 96 % 
-LSTM: 92 %
-Xgboost : 94 %
+- Support Vector Machines: 96 % 
+
+- LSTM: 92 %
+
+- Xgboost : 94 %
 
 
 
