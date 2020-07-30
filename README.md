@@ -13,7 +13,11 @@ Compared to a classical approach, using a Recurrent Neural Networks (RNN) with L
 
 Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
 
-# 2. Methods
+# 2. Problem Statemet
+
+Given a new datapoint we have to predict the Activity
+
+# 3. Methods
 
 Models used: LSTM,Support Vector Machine,and  XG boost 
 Grapical Visualizaiton: Tableau
